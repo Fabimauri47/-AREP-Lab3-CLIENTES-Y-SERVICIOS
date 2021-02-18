@@ -20,7 +20,7 @@ despliegue continuo con CircleCI.
 
 ### Pre-Requisitos
 
-    - Para la realización de este laboratorio es necesario el uso de los aplicativos mencionados abajo de la descripción, en donde si no cuenta con alguno de estos
+- Para la realización de este laboratorio es necesario el uso de los aplicativos mencionados abajo de la descripción, en donde si no cuenta con alguno de estos
        solo es necesario darle click al que necesite y lo dirigira a la pagina de instalacion: 
 
     * [Java 8.0](https://www.java.com/es/) - Codificación
