@@ -32,10 +32,16 @@ despliegue continuo con CircleCI.
 
 ### Despliegue con Heroku App
 
-[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://pure-bayou-45076.herokuapp.com/)
+>[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://eci-horarios.herokuapp.com/)
 
 
 ### Integracion Continua con Circle CI
+>[![CircleCI](https://circleci.com/gh/The-Developers-Eci/2020-2-PROYCVDS-THE_DEVELOPERS_ECI.svg?style=svg)](https://app.circleci.com/pipelines/github/Software-Development-Industries/ECI-Horarios)
+>
+
+### Calidad Del Código con Codacy
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b62c449e43f24a86803f524a67d373ea)](https://app.codacy.com/gh/Software-Development-Industries/ECI-Horarios/dashboard)
 
 ### Guia de Instalación
 
