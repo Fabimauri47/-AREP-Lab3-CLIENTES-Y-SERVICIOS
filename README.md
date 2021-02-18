@@ -2,19 +2,9 @@
 
 ## Introducción Del Proyecto
 
-En este laboratorio 2 de introducción al dise˜no de sistemas inform´aticos, se procedi´o a desarrollar un programa que permitiera calcular dos operaciones: La
-desviaci´on est´andar y la media en un conjunto de
-n´umeros reales, proporcionados por el usuario. El programa lee n´umeros reales desde una p´agina web, en la
-cual tiene acceso el usuario, con el fin de que pueda
-hacer el c´alculo de sus operaciones correspondientes.
+En esta práctica de laboratorio 3, de la materia AREP, se muestra el desarrollo de un servidor web, mediante el despliegue con la herramienta Heroku. Este servidor web permite el soporte de múltiples requerimientos ejecutados en forma de fila, mas no concurrentemente. El servidor web cuenta con la capacidad de devolver todos los requerimientos solicitados en formato de archivos. Además, de contar un sitio web que fue construido con JavaScript y con el uso de nuestro servidor web. Permitiendo así el funcionamiento de un framework básico y de uso experimental, de uso similar al de Spark.
 
-Para realizar estos c´alculos correspondientes se
-necesito una estructura de datos de tipo ”Linked List”,
-con la aplicaci´on de Java, para que estas pudieran ser
-desplegadas. Se necesito adquirir el conocimiento para
-uso framework Spark, el cual es necesario para poder
-desarrollar la aplicaci´on. Realizar la validaci´on de un
-despliegue continuo con CircleCI.
+Aparte de lo ya descrito anteriormente, se procedió a realizar dos desafíos planteados en los cuales consistía coger practica y contexto para este laboratorio, este consistía en el primero en desplegar un servicio web que soportara múltiples tareas, en fila, mas no de forma recurrente, haciendo uso de los servicios de construcción de JavaScript. El segundo reto consistía en escribir un framework similar a Spark, pero mas básico, permitiendo realizar las funciones mencionadas en la parte de arriba, pero con la conexión a un servicio de base datos para realizar la prueba de solución.  
 
 
 
