@@ -1,6 +1,6 @@
 # ***Lab # 3 Taller Clientes y Servicios***
 
-## Comenzando
+## Introducción Del Proyecto
 
 En este laboratorio 2 de introducción al dise˜no de sistemas inform´aticos, se procedi´o a desarrollar un programa que permitiera calcular dos operaciones: La
 desviaci´on est´andar y la media en un conjunto de
@@ -82,9 +82,10 @@ Para correr las pruebas, usamos el siguiente comando en una terminal CMD o en un
 
 ## Construido con
 
-* [Java 8.0](https://www.java.com/es/) - Codificación
-* [Spark](https://spark.apache.org/downloads.html) - Micro Framework para crear aplicaciones web en Java 8.0
-* [Maven](https://maven.apache.org/) - Manejo de Dependencias
+* [Java 8.0](https://www.java.com/es/) - Codificación y Lenguaje de Programacíon.
+* [JUnit5](https://junit.org/junit5/) - Programa para ejecutar pruebas de unidad.
+* [Maven](https://maven.apache.org/) - Manejo de Dependencias.
+* [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) - Programa usado para la Codificacíon.
 
 
 ## Autor
