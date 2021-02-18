@@ -37,9 +37,8 @@ despliegue continuo con CircleCI.
 
 
 ### Integracion Continua con Circle CI
->[![CircleCI](https://app.circleci.com/projects/project-dashboard/github/Fabimauri47/)](https://app.circleci.com/pipelines/github/Fabimauri47/-AREP-Lab3-CLIENTES-Y-SERVICIOS)
+>[![CircleCI](https://circleci.com/gh/The-Developers-Eci/2020-2-PROYCVDS-THE_DEVELOPERS_ECI.svg?style=svg)](https://app.circleci.com/pipelines/github/Fabimauri47/-AREP-Lab3-CLIENTES-Y-SERVICIOS)
 >
-
 ### Calidad Del Código con Codacy
 
 >[![Codacy Badge](https://circleci.com/gh/The-Developers-Eci/2020-2-PROYCVDS-THE_DEVELOPERS_ECI.svg?style=svg)](https://app.codacy.com/gh/Software-Development-Industries/ECI-Horarios/dashboard)
