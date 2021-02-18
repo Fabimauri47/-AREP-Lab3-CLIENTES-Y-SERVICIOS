@@ -20,11 +20,14 @@ despliegue continuo con CircleCI.
 
 ### Pre-Requisitos
 
-* [Java 8.0](https://www.java.com/es/) - Codificación
-* [Spark](https://spark.apache.org/downloads.html) - Micro Framework para crear aplicaciones web en Java 8.0
-* [Maven](https://maven.apache.org/) - Manejo de Dependencias
-* [JUnit](https://junit.org/junit5/) - Pruebas de Unidad
-* [Git](https://github.com/) - Control de Sistemas de veriones.
+    - Para la realización de este laboratorio es necesario el uso de los aplicativos mencionados abajo de la descripción, en donde si no cuenta con alguno de estos
+       solo es necesario darle click al que necesite y lo dirigira a la pagina de instalacion: 
+
+    * [Java 8.0](https://www.java.com/es/) - Codificación
+    * [Maven](https://maven.apache.org/) - Manejo de Dependencias
+    * [JUnit](https://junit.org/junit5/) - Pruebas de Unidad
+    * [Git](https://github.com/) - Control de Sistemas de veriones.
+    * [Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) - Despligue de Ambiente Web
 
 
 ### Despliegue con Heroku App
