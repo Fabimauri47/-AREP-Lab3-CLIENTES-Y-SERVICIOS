@@ -71,9 +71,7 @@ Para correr las pruebas, usamos el siguiente comando en una terminal CMD o en un
 
          mvn test
 
-   ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab2-Heroku/blob/main/Imagenes/corrida%20pruebas%20lab%202.png)
-
-
+ 
 ## Desarrollo e Informe
 
 - Para conocer mas sobre el desarrollo del proyecto, descargue el proyecto como se explica arriba o revise el informe:
