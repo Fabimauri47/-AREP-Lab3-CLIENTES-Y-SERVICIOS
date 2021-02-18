@@ -21,7 +21,8 @@ despliegue continuo con CircleCI.
 ### Pre-Requisitos
 
 - Para la realización de este laboratorio es necesario el uso de los aplicativos mencionados abajo de la descripción, en donde si no cuenta con alguno de estos,
-       solo es necesario darle click al que necesite y lo dirigira a la pagina de instalacion: 
+       solo es necesario darle clic al que necesite y lo dirigirá a la página de instalación:
+
 
     * [Java 8.0](https://www.java.com/es/) - Codificación
     * [Maven](https://maven.apache.org/) - Manejo de Dependencias
@@ -75,7 +76,7 @@ Para correr las pruebas, usamos el siguiente comando en una terminal CMD o en un
  
 ## Desarrollo e Informe
 
-- Para conocer mas sobre el desarrollo del proyecto, descargue el proyecto como se explica arriba o revise el informe:
+- Para conocer más sobre el desarrollo del proyecto, descargue el proyecto como se explica arriba o revise el informe:
 
     -[Presione Aqui para revisar documento](https://github.com/Fabimauri47/AREP-Lab2-Heroku/blob/main/Lab2__INTRODUCTION_TO_COMPUTER_SYSTEM_DESIGN.pdf)
 
