@@ -37,7 +37,7 @@ despliegue continuo con CircleCI.
 
 
 ### Integracion Continua con Circle CI
->[![CircleCI](https://circleci.com/gh/The-Developers-Eci/2020-2-PROYCVDS-THE_DEVELOPERS_ECI.svg?style=svg)](https://app.circleci.com/pipelines/github/Software-Development-Industries/ECI-Horarios)
+>[![CircleCI](https://circleci.com/gh/The-Developers-Eci/2020-2-PROYCVDS-THE_DEVELOPERS_ECI.svg?style=svg)](https://app.circleci.com/pipelines/github/Fabimauri47/-AREP-Lab3-CLIENTES-Y-SERVICIOS)
 >
 
 ### Calidad Del Código con Codacy
