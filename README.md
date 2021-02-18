@@ -47,31 +47,25 @@ despliegue continuo con CircleCI.
 
 1. Primero se debe clonar el repositorio, con el siguiente comando descrito:
 
-    - git clone https://github.com/Fabimauri47/AREP-Lab2-Heroku
+       git clone https://github.com/Fabimauri47/AREP-Lab2-Heroku
     
-    ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab2-Heroku/blob/main/Imagenes/Clonacion%20proyecto%20lab%202.png)
 
 2. Luego proceda abrir el cmd (Ventana de comandos) en donde tiene el repositorio alojado y ejecute el siguiente comando:
 
-    - mvn package
+       mvn package
     
-    ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab2-Heroku/blob/main/Imagenes/mvn%20package%20lab%202.png)
 
 3. Ejecutamos el programa con el siguiente comando:
 
-   - mvn exec:java -D "exec.mainClass"="edu.escuelaing.arem.designprimer.SparkWebApp"
-     In your browser: http://localhost:4567
+       mvn exec:java -D "exec.mainClass"="edu.escuelaing.arem.designprimer.SparkWebApp"
+       In your browser: http://localhost:4567
    
-   ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab2-Heroku/blob/main/Imagenes/comando%20mvn%20proyecto.png)
 
 4. Gereramos la documentación con el siguiente comando ejecutandolo desde consola:
 
-   - mvn javadoc:javadoc
+       mvn javadoc:javadoc
    
-   ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab2-Heroku/blob/main/Imagenes/mvn%20java%20doc%20lab%202.png)
-   
- - Para ver la aplicacion de la calculadora, de manera web, presione en el siguiente enlace:
-    - [Calculadora en Heroku](https://pure-bayou-45076.herokuapp.com/)
+ 
 
 
 ## Corriendo Pruebas
