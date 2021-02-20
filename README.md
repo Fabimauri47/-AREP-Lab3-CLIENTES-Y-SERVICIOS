@@ -31,7 +31,7 @@ Aparte de lo ya descrito anteriormente, se procedió a realizar dos desafíos pl
 >
 ### Calidad Del Código con Codacy
 
->[![Codacy Badge](https://app.codacy.com/gh/Fabimauri47/-AREP-Lab3-CLIENTES-Y-SERVICIOS/dashboard)](https://app.codacy.com/gh/Fabimauri47/-AREP-Lab3-CLIENTES-Y-SERVICIOS/dashboard)
+>[![Codacy Badge](https://app.codacy.com/organizations/gh/Fabimauri47/repositories)](https://app.codacy.com/gh/Fabimauri47/-AREP-Lab3-CLIENTES-Y-SERVICIOS/dashboard)
 
 ### Guia de Instalación
 
